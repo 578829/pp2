@@ -29,7 +29,7 @@ namespace opdr1
 
             if ( getal < 13 && getal > 0)
             {
-                m = Maand.
+                m = Maand.Januarie;
             }
             else
             {
